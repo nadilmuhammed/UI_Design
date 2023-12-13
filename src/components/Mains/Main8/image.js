@@ -1,0 +1,20 @@
+export const imageData = [
+    {
+        img:"https://www.ombrulla.com/_astro/dahua.d9dec1a0_1788pM.webp"
+    },
+    {
+        img:"https://www.ombrulla.com/_astro/unv.85d8fa6f_1oWCsP.webp"
+    },
+    {
+        img:"https://www.ombrulla.com/_astro/dahua.d9dec1a0_1788pM.webp"
+    },
+    {
+        img:"https://www.ombrulla.com/_astro/amazon.8aa611f6_Zkubpr.webp"
+    },
+    {
+        img:"https://www.ombrulla.com/_astro/hikvision.2a55c6c2_Z1UqjJV.webp"
+    },
+    {
+        img:"https://www.ombrulla.com/_astro/azure.3a96288f_ZDjkY6.webp"
+    }
+]
