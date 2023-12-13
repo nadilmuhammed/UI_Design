@@ -6,7 +6,7 @@ function Layout({data}) {
 
   return (
     <>
-      <div className="md:flex-col" style={{border: "none",width: "45%",height: "65vh",padding: "2rem",background: "#eff1f5",borderRadius: "10px",}}>
+      <div className="" style={{border: "none",width: "45%",height: "65vh",padding: "2rem",background: "#eff1f5",borderRadius: "10px",}}>
         <card>
           <div>
             <p style={{ fontSize: "2rem" }}>
